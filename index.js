@@ -18,7 +18,7 @@ module.exports.defaultOptions = {
     collapseWhitespace:            true,
     collapseBooleanAttributes:     true,
     removeAttributeQuotes:         true,
-    removeRedundantAttributes:     true,
+//    removeRedundantAttributes:     true,
     useShortDoctype:               true,
     removeEmptyAttributes:         true,
 //    removeEmptyElements:           true,
